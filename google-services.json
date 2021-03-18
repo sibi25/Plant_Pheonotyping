@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "743620653825",
+    "project_id": "plantpheonotyping",
+    "storage_bucket": "plantpheonotyping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743620653825:android:c086ab0bc5df8d6c61e100",
+        "android_client_info": {
+          "package_name": "com.example.plant_pheonotyping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743620653825-oth10u3rmkgbj0b38s6ohshfne4aok3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plant_pheonotyping",
+            "certificate_hash": "1ee802ecb3d2ed7bea371c16590b6d912fd03694"
+          }
+        },
+        {
+          "client_id": "743620653825-m8n245v34gab72trhmd12co8iqcr4ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_IRKixbet9rIOx2TAVWXlHJtVmrB0_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743620653825-m8n245v34gab72trhmd12co8iqcr4ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
